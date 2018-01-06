@@ -1,0 +1,22 @@
+.col-center-space {
+  height: 250px;
+  width: 25%;
+}
+
+.col-empty-space {
+  height: 495px;
+  width: 100%;
+}
+
+.col-kitty {
+  background-image: url("../assets/images/kitten-large.png");
+  background-size: 100%;
+  height: 250px;
+  width: 50%;
+}
+
+.photo-background {
+  background-image: url("../assets/images/sunny-day.jpg");
+  background-size: 100%;
+  height: 740px;
+}
